@@ -1,0 +1,26 @@
+{
+  "title": "PDF to PNG 変換ツール",
+  "subtitle": "【完全プライバシー保護】PDF画像変換ツール ブラウザ上ですべての処理が完結するため、機密性の高い文書も安全に画像化できます。オフラインでも動作し、データがサーバーに送信されることは一切ありません。",
+  "dropzone": {
+    "instruction": "PDFファイルをドラッグ&ドロップ",
+    "or": "または",
+    "clickToSelect": "クリックして選択"
+  },
+  "processing": {
+    "converting": "変換中... {{progress}}%"
+  },
+  "error": {
+    "selectPdf": "PDFファイルを選択してください",
+    "canvasContext": "Canvas contextが利用できません",
+    "processingFailed": "PDFの処理中にエラーが発生しました",
+    "zipFailed": "ZIPファイルの作成中にエラーが発生しました"
+  },
+  "results": {
+    "title": "変換結果 ({{count}}ページ)",
+    "title_other": "変換結果 ({{count}}ページ)",
+    "creatingZip": "ZIP作成中...",
+    "downloadZip": "ZIPでダウンロード",
+    "page": "ページ {{number}}",
+    "download": "ダウンロード"
+  }
+}

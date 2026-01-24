@@ -1,0 +1,26 @@
+{
+  "title": "PDF to PNG Converter",
+  "subtitle": "A privacy-first PDF converter. All processing happens in your browser - your documents never leave your device. Works offline with zero server uploads.",
+  "dropzone": {
+    "instruction": "Drag & drop a PDF file",
+    "or": "or",
+    "clickToSelect": "click to select"
+  },
+  "processing": {
+    "converting": "Converting... {{progress}}%"
+  },
+  "error": {
+    "selectPdf": "Please select a PDF file",
+    "canvasContext": "Canvas context not available",
+    "processingFailed": "An error occurred while processing the PDF",
+    "zipFailed": "An error occurred while creating the ZIP file"
+  },
+  "results": {
+    "title": "Conversion Results ({{count}} page)",
+    "title_other": "Conversion Results ({{count}} pages)",
+    "creatingZip": "Creating ZIP...",
+    "downloadZip": "Download as ZIP",
+    "page": "Page {{number}}",
+    "download": "Download"
+  }
+}
